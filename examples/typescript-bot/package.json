@@ -1,0 +1,13 @@
+{
+  "name": "example-typescript-bot",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Non-runnable TypeScript design example.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
