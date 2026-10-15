@@ -1,0 +1,10 @@
+{
+  "name": "@vexojs/gateway",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Planned gateway client for Vexo. Not implemented, not published.",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
