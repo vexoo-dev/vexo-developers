@@ -1,0 +1,12 @@
+{
+  "name": "example-hello-bot",
+  "version": "0.0.0",
+  "private": true,
+  "type "module",
+  "description": "Non-runnable design example. Requires @vexojs/sdk which is not published.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {}
+}
