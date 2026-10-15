@@ -1,0 +1,10 @@
+{
+  "namedk",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Planned main developer SDK for Vexo bots. Not implemented, not published.",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
